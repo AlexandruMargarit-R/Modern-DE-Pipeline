@@ -7,12 +7,8 @@ E2E pipeline (free tech)
 ## Technologies Used
 
 - Redpanda
-- Docker
-- minIo
+- MinIO
+- Iceberg
 - dbt
-- duckdb
-- kd3 (Kubernetes Data Distribution)
 - Dagster
-
-
-
+- K3d
