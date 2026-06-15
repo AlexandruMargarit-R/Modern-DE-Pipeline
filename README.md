@@ -2,4 +2,17 @@
 
 E2E pipeline (free tech)
 
-# First commit
+# A modern data engineering pipeline that is free to use and deploy.
+
+## Technologies Used
+
+- Redpanda
+- Docker
+- minIo
+- dbt
+- duckdb
+- kd3 (Kubernetes Data Distribution)
+- Dagster
+
+
+
