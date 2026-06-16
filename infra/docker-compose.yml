@@ -1,3 +1,4 @@
+# Docs:  https://docs.redpanda.com/labs/docker-compose/single-broker/
 name: redpanda-quickstart-one-broker
 networks:
   redpanda_network:

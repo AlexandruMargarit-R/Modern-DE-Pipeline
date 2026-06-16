@@ -1,0 +1,6 @@
+booking_id,user_id,property_id,booking_date,check_in_date,check_out_date,total_amount,currency,status
+BK-1001,U-001,P-101,2026-06-01,2026-07-10,2026-07-14,520.00,EUR,confirmed
+BK-1002,U-002,P-205,2026-06-02,2026-07-12,2026-07-15,315.50,EUR,pending
+BK-1003,U-003,P-118,2026-06-03,2026-07-20,2026-07-23,410.00,EUR,confirmed
+BK-1004,U-004,P-302,2026-06-04,2026-08-01,2026-08-05,689.99,EUR,cancelled
+BK-1005,U-005,P-147,2026-06-05,2026-08-10,2026-08-12,199.00,EUR,confirmed
